@@ -1,0 +1,14 @@
+{
+  "eixoX": {
+    "nome": "fato_vaga",
+    "campo": "nr_candidatos_inscritos"
+  },
+  "filtros": [
+    {
+      "nome": "dim_vaga",
+      "campo": "titulo",
+      "comparador": "=",
+      "valor": "Desenvolvedor Java"
+    }
+  ]
+}
