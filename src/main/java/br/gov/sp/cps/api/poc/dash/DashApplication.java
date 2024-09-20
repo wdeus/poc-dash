@@ -2,6 +2,7 @@ package br.gov.sp.cps.api.poc.dash;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.context.annotation.ComponentScan;
 
 @SpringBootApplication
 public class DashApplication {
